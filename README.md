@@ -2,6 +2,8 @@
 
 Translate PowerPoint (.pptx) slides files using AWS Bedrock LLM models.
 
+> Inspired by the project [aws-samples/pptx-translator](https://github.com/aws-samples/pptx-translator)~
+
 ## Installation
 
 ```bash
