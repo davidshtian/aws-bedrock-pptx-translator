@@ -1,8 +1,8 @@
 # AWS Bedrock PPT Translator
 
-Translate PowerPoint (.pptx) slides files using AWS Bedrock LLM models.
+Translate PowerPoint (.pptx) slides files using AWS Bedrock LLM models. Inspired by the project [aws-samples/pptx-translator](https://github.com/aws-samples/pptx-translator)~
 
-> Inspired by the project [aws-samples/pptx-translator](https://github.com/aws-samples/pptx-translator)~
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/8a9aa774-f2af-4289-a185-b5c59666900a" />
 
 ## Installation
 
