@@ -13,7 +13,7 @@ def translate_text(client, text, source_lang, target_lang, model_id):
             modelId=model_id,
             messages=[{
                 "role": "user", 
-                "content": [{"text": f"Translate from {source_lang} to {target_lang}: {text}"}]
+                "content": [{"text": f"Translate from {source_lang} to {target_lang}. Return ONLY the translated text without any explanations or comments:\n\n{text}"}]
             }]
         )
         
